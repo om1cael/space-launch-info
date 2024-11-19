@@ -13,26 +13,6 @@ A Java application that fetches and displays upcoming space launch details from 
 - `CompletableFuture` (for asynchronous processing)
 - SpaceDevs API (public API for upcoming space launches)
 
-## Setup
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/om1cael/space-launch-info.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd space-launch-info
-    ```
-
-3. Compile and run the application:
-    ```bash
-    javac Main.java LaunchManager.java LaunchInfoUtils.java Launch.java LaunchStatus.java
-    java Main
-    ```
-
-4. The application will fetch and display upcoming space launches in the terminal.
-
 ## Example Output
 ```
 Falcon 9 Block 5 | Starlink Group 6-66
