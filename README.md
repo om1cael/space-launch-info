@@ -17,12 +17,12 @@ A Java application that fetches and displays upcoming space launch details from 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/om1cael/upcoming-space-launches.git
+    git clone https://github.com/om1cael/space-launch-info.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd upcoming-space-launches
+    cd space-launch-info
     ```
 
 3. Compile and run the application:
