@@ -17,7 +17,7 @@ A Java application that fetches and displays upcoming space launch details from 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/upcoming-space-launches.git
+    git clone https://github.com/om1cael/upcoming-space-launches.git
     ```
 
 2. Navigate to the project directory:
